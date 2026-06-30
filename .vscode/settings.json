@@ -1,0 +1,6 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda",
+    "python.analysis.extraPaths": ["E:\\self_code\\ml_dl_nlp"],
+    "python.envFile": "${workspaceFolder}/.env"
+}
